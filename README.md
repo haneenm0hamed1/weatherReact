@@ -1,6 +1,6 @@
 # Weather App
 
-This is a **Weather Application** that displays real-time weather information for any city using a public API.
+A React application that displays real-time weather information for any city using a public API.
 
 ## Features
 - Search for any city to get current weather conditions
@@ -9,6 +9,7 @@ This is a **Weather Application** that displays real-time weather information fo
 - Error handling for invalid city names
 
 ## Tech Stack
+- React
 - HTML
 - CSS
 - JavaScript
@@ -16,3 +17,8 @@ This is a **Weather Application** that displays real-time weather information fo
 
 ## Live Demo
 [View on Netlify](https://weather94.netlify.app/)
+
+## How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/haneenm0hamed1/weather94.git
