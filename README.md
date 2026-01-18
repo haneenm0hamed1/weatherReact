@@ -1,1 +1,18 @@
-# weatherReact
+# Weather App
+
+This is a **Weather Application** that displays real-time weather information for any city using a public API.
+
+## Features
+- Search for any city to get current weather conditions
+- Display temperature, humidity, wind speed, and weather description
+- Responsive design for desktop and mobile
+- Error handling for invalid city names
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeatherMap API
+
+## Live Demo
+[View on Netlify](https://weather94.netlify.app/)
